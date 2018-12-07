@@ -1,0 +1,7 @@
+C:\Users\house\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\house\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\house\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\house\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csprojResolveAssemblyReference.cache
+C:\Users\house\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\house\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\house\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
